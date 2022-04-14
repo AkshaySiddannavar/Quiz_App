@@ -9,14 +9,12 @@ insert link
 Link for video : insert link from repo
 
 - What the project does  
-It gives a magic 8 ball which can help you make descisions in life  
-Tip :  
-Better use it only for silly decisions though 😆
+It shows a small quiz of 15 questions with True/False answers 
 
 - Why the project is useful  
 You can :
   - Use it as stub project and customise it as per your inclinations
-  - Use it as a tool to take small decisions
+  - Use it to increase your General Knowledge (who knows when it might be needed 👀) 
 
 - How users can get started with the project  
 1. Fork it (optional) 🍴
