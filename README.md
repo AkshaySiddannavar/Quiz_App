@@ -4,9 +4,10 @@ Made With : Flutter
 
 Video :
 
-insert link
 
-Link for video : insert link from repo
+https://user-images.githubusercontent.com/72383774/163565683-3eaedc1a-b1e2-4a42-b79d-79459c03c00b.mp4
+
+Link for video : https://github.com/AkshaySiddannavar/Quiz_App/blob/main/quizzler_app_video.mp4 
 
 - What the project does  
 It shows a small quiz of 15 questions with True/False answers 
